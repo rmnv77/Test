@@ -30,3 +30,5 @@ def main():
 
 print("lek")
 main(8)
+
+exit(8)
